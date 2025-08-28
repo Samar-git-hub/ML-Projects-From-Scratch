@@ -1,6 +1,11 @@
-# ML-Projects-From-Scratch
-A collection of my machine learning projects built from scratch
+### Machine Learning Models from Scratch
 
-You can explore and execute the projects directly in your browser using Binder
+This is a collection of ML models I have implemented from scratch. Try them out yourself, by clicking on the links below:
+* **Linear Regression:**
+    [Open in Colab](https://colab.research.google.com/github/Samar-git-hub/ML-Projects-From-Scratch/blob/main/linear_regression/Implementing%20Linear%20Regression%20from%20Scratch.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Samar-git-hub/ML-Projects-From-Scratch/HEAD)
+* **Logistic Regression:**
+    [Open in Colab](https://colab.research.google.com/github/Samar-git-hub/ML-Projects-From-Scratch/blob/main/logistic_regression/Implementing%20Logistic%20Regression%20from%20Scratch.ipynb)
+
+* **Neural Network (MLP):**
+    [Open in Colab](https://colab.research.google.com/github/Samar-git-hub/ML-Projects-From-Scratch/blob/main/neural_network_mlp/Neural%20Network%20for%20Clothing%20Classification%20from%20Scratch.ipynb)
